@@ -37,7 +37,7 @@ Editor.
 23: Play the game or simulate it to see the changes you made to the character.:
 Output:
 
-//paste your output screenshot here
+![image](https://github.com/user-attachments/assets/58873b32-9b20-406b-9871-4ee2d792d089)
 
 
 Result:
