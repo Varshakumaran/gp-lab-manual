@@ -17,8 +17,15 @@ STEP-4: Place the ammo actor in the level.
 STEP-5: Test the ammo pickup functionality.
 Output:
 
-//paste your output screenshot here
+![image](https://github.com/user-attachments/assets/229623eb-78f0-4c26-aa65-6409c6d24f10)
+
+![image](https://github.com/user-attachments/assets/42962a93-f2c2-4f71-9c16-d1eaebec75ca)
+
+![image](https://github.com/user-attachments/assets/b975a40a-fd22-48f2-a414-862365acab68)
+
+![image](https://github.com/user-attachments/assets/543ccd8f-c00e-409f-bd36-58d76a715c71)
+
+![image](https://github.com/user-attachments/assets/841185d5-6207-4b71-80d8-8c6aad28b461)
 
 Result:
-
 Thus, added ammo to increase the bullet count and displayed it in play
