@@ -48,9 +48,9 @@ consider adding visual and audio feedback when a bullet hits an object. For exam
 display a particle effect or play a sound effect to signify a successful hit.
 Output:
 
-//paste your output screenshot here
-
+![Screenshot 2025-05-22 085614](https://github.com/user-attachments/assets/6294aaf7-9683-4d72-825c-2da5127fb393)
 
 Result:
+
 To Attach Rifle with character mesh and implementation bullet spawn from Rifle is
 implemen
