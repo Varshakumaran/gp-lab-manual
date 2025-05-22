@@ -20,7 +20,11 @@ desired play area.
 
 Output:
 
-//paste your output screenshot here
+![image](https://github.com/user-attachments/assets/0f9f3285-cf17-46bb-899f-f993cc160b9e)
+
+![image](https://github.com/user-attachments/assets/19f3fee1-b568-41ac-8e8b-2d664102dc39)
+
+![image](https://github.com/user-attachments/assets/6e3f19eb-434d-4287-90cd-d2ba9fe477f5)
 
 Result:
 Thus, the AI concept to the actor for a random movement is imple
