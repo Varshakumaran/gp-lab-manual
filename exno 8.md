@@ -11,7 +11,8 @@ STEP-6: Refine and optimize the landscape.
 STEP-7: Test and iterate.
 Output:
 
-//paste your output screenshot here
+![image](https://github.com/user-attachments/assets/49d2893d-7423-4b05-9fdc-9c5754461248)
+![image](https://github.com/user-attachments/assets/483283fd-62a7-4706-91d5-4eff2db4fb98)
 
 
 Result:
