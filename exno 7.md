@@ -25,8 +25,11 @@ editor.
 
 Output:
 
-//paste your output screenshot here
+![image](https://github.com/user-attachments/assets/1a58a3d9-5fc1-45bf-9023-2189a8758fe7)
 
+![image](https://github.com/user-attachments/assets/85d6edd3-efea-4c51-897c-099efaa2cdf1)
+
+![image](https://github.com/user-attachments/assets/d807cc07-ac95-4389-a7c1-0926fd38367f)
 
 Result:
 Thus, the AI concept to the actor for a random movement
